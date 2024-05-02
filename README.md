@@ -6,11 +6,11 @@ A simple Blog application with users, Blogs - developed using React, Node, Expre
 
 What you need to run this code
 
-Node (13.12.0)
+1.Node (13.12.0)
 
-NPM (6.14.4) 
+2.NPM (6.14.4) 
 
-MongoDB (4.2.0)
+3.MongoDB (4.2.0)
 
 How to run this code
 
@@ -22,6 +22,9 @@ Open command line in the cloned folder,
 
 To install dependencies, run  npm install  
 
-To run the application for development, run  npm run development 
+To run the application for development, run  npm run dev
 
 Open localhost:8080 in the browser
+
+
+
